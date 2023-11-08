@@ -4,7 +4,7 @@ import React from "react";
 const Welcome = ({name}) =>(
     <div>
         <h1>Hey ! {name}</h1> 
-        <p>Welcome to School.</p>
+        <h2>Welcome to School.</h2>
     </div>
 )
 
