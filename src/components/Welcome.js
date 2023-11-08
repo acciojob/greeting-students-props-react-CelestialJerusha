@@ -3,7 +3,7 @@ import React from "react";
 
 const Welcome = ({name}) =>(
     <div>
-        <p>Hey ! <h1>{name}</h1></p>
+        <h1>Hey ! {name}</h1>
         <h2>Welcome to School.</h2>
     </div>
 )
